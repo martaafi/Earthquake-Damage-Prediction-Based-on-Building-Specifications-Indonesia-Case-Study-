@@ -51,7 +51,7 @@ Berdasarkan grafik batang dan diagram lingkaran, terlihat bahwa tingkat kerusaka
 - ’Height_before_eq’ (Tinggi bangunan sebelum gempa): Selaras dengan jumlah lantai, mayoritas bangunan memiliki tinggi yang relatif seragam antara 10-30 kaki. Boxplot menampilkan outlier yang signifikan, sementara histogram memperlihatkan penurunan tajam frekuensi untuk bangunan yang lebih tinggi.
 - ’No_family_residing’ (Jumlah keluarga yang tinggal): Boxplot dan histogram konsisten menunjukkan bahwa hampir semua bangunan dihuni oleh 1 keluarga. Boxplot memperlihatkan outlier, yang dikonfirmasi oleh histogram bahwa ada sedikit sekali bangunan yang dihuni oleh 2 atau lebih keluarga.
 
-## Evaluai Metrik
+## Evaluasi Metrik
 Evaluasi metrik yang digunakan untuk menilai akurasi model adalah F1-Score Macro Avg:
 
 <img width="438" height="100" alt="image" src="https://github.com/user-attachments/assets/6af9dd69-d351-4f2e-b0a9-e06050a048a0" />
